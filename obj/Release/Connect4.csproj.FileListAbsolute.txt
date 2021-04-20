@@ -1,0 +1,10 @@
+C:\Users\antho\Downloads\csc339-master\csc339-master\assignment 4\Connect4\bin\Release\Connect4.exe.config
+C:\Users\antho\Downloads\csc339-master\csc339-master\assignment 4\Connect4\bin\Release\Connect4.exe
+C:\Users\antho\Downloads\csc339-master\csc339-master\assignment 4\Connect4\bin\Release\Connect4.pdb
+C:\Users\antho\Downloads\csc339-master\csc339-master\assignment 4\Connect4\obj\Release\Connect4.csprojAssemblyReference.cache
+C:\Users\antho\Downloads\csc339-master\csc339-master\assignment 4\Connect4\obj\Release\Connect4.Form1.resources
+C:\Users\antho\Downloads\csc339-master\csc339-master\assignment 4\Connect4\obj\Release\Connect4.Properties.Resources.resources
+C:\Users\antho\Downloads\csc339-master\csc339-master\assignment 4\Connect4\obj\Release\Connect4.csproj.GenerateResource.cache
+C:\Users\antho\Downloads\csc339-master\csc339-master\assignment 4\Connect4\obj\Release\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\antho\Downloads\csc339-master\csc339-master\assignment 4\Connect4\obj\Release\Connect4.exe
+C:\Users\antho\Downloads\csc339-master\csc339-master\assignment 4\Connect4\obj\Release\Connect4.pdb
